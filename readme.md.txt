@@ -1,1 +1,2 @@
-이것은 git 테스트입니다
+git class 1
+git class 2
