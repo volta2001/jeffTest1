@@ -1,6 +1,5 @@
-git class 1
-<<<<<<< HEAD
-git class 4
-=======
+﻿git class 1
 git class 2
->>>>>>> parent of 0824d09... class3 추가
+git class 3
+git class 4
+git class 5
